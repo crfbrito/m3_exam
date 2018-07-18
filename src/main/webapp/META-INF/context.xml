@@ -3,6 +3,6 @@
 <Context>
 	<!-- Specify a JDBC datasource -->
 	<Resource name="jdbc/sqldehumo" auth="Container" type="javax.sql.DataSource"
-		username="dehumousr" password="sC66kjHWr" driverClassName="com.mysql.jdbc.Driver"
-		url="jdbc:mysql://localhost:3306/dehumo" maxActive="10" maxIdle="4" />
+		username="dehumousrtest" password="dhmsrTst07" driverClassName="com.mysql.jdbc.Driver"
+		url="jdbc:mysql://172.27.100.128/dehumo" maxActive="10" maxIdle="4" />
 </Context>
